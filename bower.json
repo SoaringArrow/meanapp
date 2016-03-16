@@ -1,0 +1,21 @@
+{
+  "name": "meanapp",
+  "description": "First MEAN app build",
+  "main": "index.js",
+  "authors": [
+    "CJ Walls"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "AngularJS-Toaster": "toaster#^1.2.0",
+    "angular": "^1.5.0",
+    "angular-resource": "^1.5.0",
+    "angular-route": "^1.5.0"
+  }
+}
